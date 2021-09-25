@@ -1,0 +1,7 @@
+.country-information{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 20px;
+    margin-top: 20px;
+   border-bottom: 2px solid blue;
+}
