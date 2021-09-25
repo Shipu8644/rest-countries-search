@@ -5,7 +5,7 @@ const CountryCart = (props) => {
     const { countryCart } = props;
     return (
         <div className="country-cart">
-            <h2>Name:{countryCart.name}</h2>
+            <h2>Name: {countryCart.name}</h2>
             <p>Alpha Code: <strong>{countryCart.alpha3Code}</strong></p>
             <p>Capital: {countryCart.capital}</p>
             <p>Region: {countryCart.region}</p>

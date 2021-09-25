@@ -5,3 +5,14 @@
     margin-top: 20px;
    border-bottom: 2px solid blue;
 }
+.btn-regular{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
